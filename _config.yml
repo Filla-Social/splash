@@ -29,6 +29,8 @@ twitter_username:
 github_username:
 youtube_username:
 
+# icons from here -> https://fontawesome.com (the ones not grayed out we can use)
+
 # Feature List                            Edit, add or remove features to be presented.
 features:
   - title: Plan Your Next Activity
