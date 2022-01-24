@@ -60,20 +60,6 @@ features:
     description: Display a smart app banner on iOS devices.
     fontawesome_icon_name: comments
 
-  - title: A Calendar Full of Fun
-    description: Whether you share this calendar with your wife or not, is up to you
-
-    fontawesome_icon_name: table-tennis
-
-  - title: Be an Ambassador
-    description: Be the top social host at your club
-
-    fontawesome_icon_name: medal
-
-  - title: Stay in the Loop
-    description: Get notified when your event is approaching and when invitees have declined or accepted their invites
-    fontawesome_icon_name: bell
-
 # Theme Settings
 topbar_color: "#000000"
 topbar_transparency: 0.1
