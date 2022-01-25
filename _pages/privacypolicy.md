@@ -138,7 +138,11 @@ If your Privacy Shield complaint cannot be resolved through the above channels, 
 Any information that is collected via our Service is covered by the Privacy Policy in effect at the time such information is collected. We may revise this Privacy Policy from time to time. If we make changes to this Privacy Policy, we’ll notify you of those changes by posting them on the Service or by sending you an email or other notification. We encourage you to review the Privacy Policy whenever you access the Service to stay informed about our information practices and the ways you can help protect your privacy. By continuing to access or use the Service after those changes become effective, you agree to be bound by the revised Privacy Policy.  If you have any questions regarding this Privacy Policy, please contact us at admin@fillasocial.com
  
 Filla LLC:
+
 564 Ardsley Blvd.,
+
 Garden City, NY 11530, U.S.A.
+
 Email: admin@fillasocial.com
+
 Tel: +1 917-242-2986
