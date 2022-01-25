@@ -6,7 +6,7 @@ include_in_header: false
 
 <!-- ### `Initial Release` -->
 
-# **Version 1.0**
+# **App Updates**
 
-A bunch of features here!
+For What's New on the Filla App and Version History, check Filla in the App Store or Google Play
 <br>
