@@ -29,50 +29,34 @@ twitter_username:
 github_username:
 youtube_username:
 
+# icons from here -> https://fontawesome.com (the ones not grayed out we can use)
+
 # Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: Plan Your Next Activity
+  - title: Plan With Ease
     description: Want to avoid group chats and email chains? Invite your favorite trash talkers and ringers to fill your golf foursome without all the back & forth.
     fontawesome_icon_name: golf-ball
 
   - title: Fill Your Event
-    description: With primary and secondary invitees; your best buds get first dibs on joining your golf match and Filla will invite your backups in case they’re unavailable.
+    description: With primary and secondary invitees, your best buds get first dibs on joining your golf match while Filla invites your backups to fill open spots.
     fontawesome_icon_name: users
 
-  - title: Discover + Join Outings
-    description: Filla will suggest events when you are free with friends you like.
+  - title: Discover + Join
+    description: Don’t know what to do this weekend? How about this afternoon? Get event suggestions when you are free with friends you like.
     fontawesome_icon_name: calendar-alt
 
-  - title: Get Inspired
-    description: Don’t know what to do this weekend? How about this afternoon? Receive suggestions for activities based on the things you like to do and the people you like to do them with.
-    fontawesome_icon_name: running
-
   - title: Get Connected
-    description: Want to play paddle but don’t know who is available? Your Filla feed will include golf games and tennis matches hosted by your friends with open spots left.
+    description: Want to get out and play but don’t know who is available? Your feed includes golf games and tennis matches hosted by your friends with open spots left.
     fontawesome_icon_name: user-friends
 
-  - title: Handle Last minute Changes
-    description: Did someone have to drop from your tennis match last minute? Filla will automatically invite attendees the host had previously invited to fill the spot
+  - title: Changes Happen
+    description: Did someone drop from your tennis match last minute? Filla automatically invites attendees the host had previously invited to fill the spot.
 
     fontawesome_icon_name: user-times
 
-  - title: Meet New Members
-    description: Display a smart app banner on iOS devices.
-    fontawesome_icon_name: comments
-
-  - title: A Calendar Full of Fun
-    description: Whether you share this calendar with your wife or not, is up to you
-
-    fontawesome_icon_name: table-tennis
-
-  - title: Be an Ambassador
-    description: Be the top social host at your club
-
-    fontawesome_icon_name: medal
-
   - title: Stay in the Loop
-    description: Get notified when your event is approaching and when invitees have declined or accepted their invites
-    fontawesome_icon_name: bell
+    description: Get notified when your event is approaching and when invitees have declined or accepted their invites.
+    fontawesome_icon_name: comments
 
 # Theme Settings
 topbar_color: "#000000"
