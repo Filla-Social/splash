@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: What's New
 include_in_header: false
@@ -9,4 +9,4 @@ include_in_header: false
 # **Version 1.0**
 
 A bunch of features here!
-<br>
+<br> -->
