@@ -17,12 +17,12 @@ We receive your information through our mobile applications, websites, email not
 We collect the following kinds of information:
 ### App Account and Profile Information: 
 When you register with us through the Application or Sites to become a registered User, we will ask you for certain information about you that can be used to contact or identify you (“Personally Identifiable Information” or “PII”). PII may include, but is not limited to:
-– Your first and last name
-– Your phone number, email address and your desired password
-– Your subscription preferences (whether and what types of information you would like us to send you)
+- Your first and last name
+- Your phone number, email address and your desired password
+- Your subscription preferences (whether and what types of information you would like us to send you)
 If you create an App Account using your login credentials from one of your SNS Accounts, such as Twitter or Facebook, we’ll be able to access and collect certain information like your name, username, profile photograph and email address and other PII that your privacy settings on the SNS Account permit us to access. You may provide us with additional profile information, including a short biography, club association, location, and profile photo. If you create your App Account by connecting through another SNS Account, we may use public information from that connected account to help complete your App profile. Some contact information may be required in order to use certain features on the Services. We may also collect certain information that is not PII because it cannot be used by itself to identify you.
-- Your contacts are collected. Your phone contacts may be needed to use features and invite friends.
-### Communications and Customer Service: 
+- Your contacts are collected. Your phone contacts may be needed to invite friends to app and to events.
+### Communications and Customer Service:
 We use your Personal Information to contact you with Filla newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your “preferences” information in your account settings. We use your Personal Information to respond to your questions or inquiries.
 ### Advertising: 
 We allow third-party companies to collect certain information when you visit our web sites. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at: www.aboutads.info and Networking Advertising Initiative at http://www.networkadvertising.org/about-nai/about-nai.
